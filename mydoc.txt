@@ -1,2 +1,4 @@
 hey, this is my file
 and now theres this
+
+this is a really lazy way to learn git
